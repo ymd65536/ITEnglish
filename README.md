@@ -21,8 +21,7 @@ IT業界で目にする英語をメモしていくリポジトリ
 
 Storage is available.
 
-#### availableを使った例文の翻訳
-
+翻訳：  
 ストレージは利用可能です。
 
 ### archive
