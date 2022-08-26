@@ -25,15 +25,14 @@ Storage is available.
 
 ストレージは利用可能です。
 
-### Archive
+### archive
 
 アーカイブ
 記録、保管庫などの意味、IT業界では長期保存された記録媒体やサービスに使われる。
 
-#### 例文
+#### archiveを使った例文
 
 Now, Azure Archive Storage is available in South Africa North.
 
-#### 翻訳
-
+翻訳：  
 現在、Azure Archive Storageは南アフリカ共和国北部で利用できます。
