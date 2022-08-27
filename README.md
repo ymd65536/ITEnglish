@@ -35,3 +35,15 @@ Now, Azure Archive Storage is available in South Africa North.
 
 翻訳：  
 現在、Azure Archive Storageは南アフリカ共和国北部で利用できます。
+
+### assign
+
+アサイン
+割り当てる。
+
+#### assignを使った例文
+
+You can assign a public IPv4 address to your instance when you launch it.
+
+翻訳：  
+インスタンスの起動時にパブリックIPv4アドレスを割り当てることができます。
