@@ -47,3 +47,21 @@ You can assign a public IPv4 address to your instance when you launch it.
 
 翻訳：  
 インスタンスの起動時にパブリックIPv4アドレスを割り当てることができます。
+
+### add
+
+アサイン
+割り当てる。
+
+#### addを使った例文
+
+It takes several minutes for the VPC to be created. After the VPC is created, proceed to the following section to add a second subnet.
+
+翻訳：  
+VPCが作成されるまでには数分かかります。VPCの作成が完了したら、次のセクションに進んで2つ目のサブネットを追加してください。
+
+補足：
+
+|熟語|意味|
+|:---|:---|
+|following section|次節、次項|
